@@ -1,2 +1,0 @@
-# git-exam
-README.md
